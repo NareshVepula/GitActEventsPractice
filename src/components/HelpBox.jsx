@@ -1,7 +1,7 @@
 import { string } from 'prop-types';
 
 import './HelpBox.css';
-
+//adding skip comment in commit message
 function HelpBox({ title, text }) {
   return (
     <article className="help-box">
